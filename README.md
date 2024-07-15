@@ -6,10 +6,10 @@ This system would enhance Myntra's online shopping experience by leveraging adva
 **Collab Link** : 🔗 https://colab.research.google.com/drive/1subSEjR7WCy9Z0n-GhpaV-RVEUmxmz31?usp=sharing 
 
 ## Tech Stack:
-Scikit-learn
-Tensorflow
-pytorch
-Figma
+- Scikit-learn
+- Tensorflow
+- PyTorch
+- Python
 
 ## Screenshots:
 
