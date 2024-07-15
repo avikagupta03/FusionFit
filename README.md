@@ -3,7 +3,13 @@ A platform created with the help of AIML identifying preference ,studying ,trend
 
 This system would enhance Myntra's online shopping experience by leveraging advanced machine learning techniques for personalized fashion recommendations, accurately predicting trends, and suggesting complementary accessories to match each user's unique tastes and preferences.
 
-**Collab Link** : 🔗 https://colab.research.google.com/drive/1subSEjR7WCy9Z0n-GhpaV-RVEUmxmz31?usp=sharing
+**Collab Link** : 🔗 https://colab.research.google.com/drive/1subSEjR7WCy9Z0n-GhpaV-RVEUmxmz31?usp=sharing 
+
+## Tech Stack:
+Scikit-learn
+Tensorflow
+pytorch
+Figma
 
 ## Screenshots:
 
